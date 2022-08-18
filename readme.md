@@ -1,1 +1,1 @@
-Hacking-Arena{I_just_overwrite_this_now}
+This file will contain encrypted secret flags soon.
